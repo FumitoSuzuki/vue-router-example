@@ -1,0 +1,43 @@
+{
+  "input": {
+    "id": "input",
+    "label": "Type Input",
+    "value": "abc"
+  },
+  "select": {
+    "id": "select",
+    "label": "Type Select Box",
+    "value": "A",
+    "option": [
+      {
+        "value": "A",
+        "text": "Select A"
+      },
+      {
+        "value": "B",
+        "text": "Select B"
+      },
+      {
+        "value": "C",
+        "text": "Select C"
+      }
+    ]
+  },
+  "radio": {
+    "id": "radio",
+    "label": "Type Radio Button",
+    "value": "",
+    "option": ["Select A", "Select B", "Select C"]
+  },
+  "check": {
+    "id": "check",
+    "label": "Type Check Box",
+    "value": "",
+    "option": ["Select A", "Select B", "Select C"]
+  },
+  "text": {
+    "id": "text",
+    "label": "Type Text Area",
+    "value": ""
+  }
+}

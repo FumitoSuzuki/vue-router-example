@@ -14,14 +14,8 @@
         >
           Documentation
         </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
+        <NuxtLink to="/about" class="button--grey">About</NuxtLink>
+        <NuxtLink to="/form" class="button--blue">form</NuxtLink>
       </div>
     </div>
   </div>
